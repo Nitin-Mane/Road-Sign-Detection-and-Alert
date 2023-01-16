@@ -36,7 +36,7 @@ Connect the camera module, LED and breadboard to the Raspberry Pi as per the cir
 
 Run the python script by using the command:
 ```
-python3 road_sign_detection.py
+python3 main.py
 ```
 
 ## Usage
